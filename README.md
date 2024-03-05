@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Data Science Project
+- 🌱 I’m currently learning SQL and Cloud Basics
+- - 📫 How to reach me (email) : joyaljms98@gmail.com     (do tag #git)
+- - 💬 Ask me about any softwares or apps or new Tech trends. 
+- ⚡ Fun fact: I sleep at Night.
+
+Check out my projects below: 
+
 <!--
 **joyaljms98/joyaljms98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
