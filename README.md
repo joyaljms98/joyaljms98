@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Data Science Project
+- 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning SQL and Cloud Basics
 - - 📫 How to reach me (email) : joyaljms98@gmail.com     (do tag #git)
 - - 💬 Ask me about any softwares or apps or new Tech trends. 
