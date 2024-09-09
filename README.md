@@ -2,10 +2,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning SQL and Cloud Basics
+- 🌱 I’m currently Doing my MCA
 - - 📫 How to reach me (email) : joyaljms98@gmail.com     (do tag #git)
-- - 💬 Ask me about any softwares or apps or new Tech trends. 
+- - 💬 Ask me about any softwares, apps or new Tech trends. 
 - ⚡ Fun fact: I sleep at Night.
 
 # 💻 Languages and Tools:
