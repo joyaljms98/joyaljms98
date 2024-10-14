@@ -2,7 +2,13 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently Doing my MCA
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm Joyal James ; I'm really glad you visited My page😊 ; Feel free to check out my projects !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
+
+- 🌱 I’m currently Doing my MCA at CUSAT
+- 👨🏻‍💻 I am a certified Data Scientist from IABAC
 - - 📫 How to reach me (email) : joyaljms98@gmail.com     (do tag #git)
 - - 💬 Ask me about any softwares, apps or new Tech trends. 
 - ⚡ Fun fact: I sleep at Night.
