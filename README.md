@@ -18,13 +18,6 @@ Check out my projects below:
 
 ---
 
-### Achievements
-
-* **Google Cloud Arcade Legend Tier**.
-* **Second place** in the NIIT ANIMATE competition for a PPT presentation.
-
----
-
 ### What I'm Learning and Exploring
 
 I'm a continuous learner with a keen interest in **AI/ML applications**. I'm also exploring **Agentic AI** and **Cloud Architecture Basics**.
