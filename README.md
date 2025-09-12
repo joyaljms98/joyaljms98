@@ -20,6 +20,6 @@ Check out my projects below:
 
 ### What I'm Learning and Exploring
 
-I'm a continuous learner with a keen interest in **AI/ML applications**. I'm also exploring **Agentic AI** and **Cloud Architecture Basics**.
+I'm a continuous learner with a keen interest in **AI/ML applications**. I'm also exploring **Agentic AI** and **Cloud Architecture Basics** along with Qiskit.
 
 ---
