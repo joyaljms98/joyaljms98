@@ -24,5 +24,5 @@ I'm a continuous learner with a keen interest in **AI/ML applications**. I'm als
 
 ---
 
-See my portfolio website [Here](https://joyaljms98.github.io/portfolio/)
+See my portfolio website <a href="https://joyaljms98.github.io/portfolio/" target="_blank">Visit Here</a>
 ---
